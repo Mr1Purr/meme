@@ -1,0 +1,7 @@
+.memes{border: 20px solid goldenrod; margin: 10px; align-items:normal ;}
+html{background-color: black; color: white; margin-left:auto ; margin-right: auto;}
+h1{color: goldenrod; font-size: 50px; text-align: center;}
+h2{font-size: 40px; text-align: center;}
+.center{ display: block; margin-left: auto; margin-right: auto; width: 50%;}
+h3{font-size: 50px; text-align: center; font-family: 'Kablammo', cursive;}
+input[type=text]{background-color: black; color: aliceblue;}
